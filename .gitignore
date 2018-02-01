@@ -32,7 +32,6 @@ node_modules/postcss-load-options/
 node_modules/postcss-load-plugins/
 node_modules/postcss-loader/
 node_modules/require-from-string/
-build/
 node_modules/.bin/he
 node_modules/.bin/html-minifier
 node_modules/babel-plugin-react-transform/
